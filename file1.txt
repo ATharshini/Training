@@ -1,3 +1,0 @@
-This is the first file of Git Hub projects under mygitprojects.
-I have added another line in this file.
-i have added third line
